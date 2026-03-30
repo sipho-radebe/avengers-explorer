@@ -44,3 +44,7 @@ p {
 #menu a:hover {
   color: #5077bd;
 }
+
+.about-text {
+  text-align: center;
+}
